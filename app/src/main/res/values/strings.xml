@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Get I.P</string>
+    <string name="dummy_ip">192.34.567</string>
+    <string name="get_ip_address">Get Ip Address</string>
+</resources>
